@@ -1,0 +1,47 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.w
+{
+    width:100% ;
+    height: 500px;
+
+}
+.w::before
+{
+    content:"Hr Food Company";
+    position: absolute;
+    padding-left:550px ;
+    padding-top:230px ;
+    color:aquamarine ;
+    font-size:40px ;
+    text-align: center;
+}
+.t
+{
+    width:20px ;
+    height:20px ;
+    justify-content: center;
+    font-size:40px ;
+    background-color: darkgray;
+    color:yellow ;
+    padding: 10px;
+    border-radius:25% ;
+    margin-top:10px ;
+    box-shadow: 2px 2px 4px 4px ;
+}
+.y
+{
+    width:100% ;
+    height: 400px;
+    display: flex;
+       
+}
+.s
+{
+    width:100% ;
+    height: 400px;
+    display: flex;
+}
